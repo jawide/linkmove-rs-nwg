@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](images/Snipaste_2024-02-24_15-07-24.png)
+[![Product Name Screen Shot][product-screenshot]]()
 
 链接移动共分三步
 
@@ -69,3 +69,20 @@
 * ⚡ 动态提权：基于ShellExecuteExW，动态提权
 * 🔒 安全可靠：基于SHFileOperationW，即使操作失败也可以从回收站恢复
 * 🧭 路径校验：基于正则表达式校验，避免用户误操作破坏系统目录
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/jawide/linkmove-rs-nwg.svg?style=for-the-badge
+[contributors-url]: https://github.com/jawide/linkmove-rs-nwg/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jawide/linkmove-rs-nwg.svg?style=for-the-badge
+[forks-url]: https://github.com/jawide/linkmove-rs-nwg/network/members
+[stars-shield]: https://img.shields.io/github/stars/jawide/linkmove-rs-nwg.svg?style=for-the-badge
+[stars-url]: https://github.com/jawide/linkmove-rs-nwg/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jawide/linkmove-rs-nwg.svg?style=for-the-badge
+[issues-url]: https://github.com/jawide/linkmove-rs-nwg/issues
+[license-shield]: https://img.shields.io/github/license/jawide/linkmove-rs-nwg.svg?style=for-the-badge
+[license-url]: https://github.com/jawide/linkmove-rs-nwg/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: images/Snipaste_2024-02-24_15-07-24.png
