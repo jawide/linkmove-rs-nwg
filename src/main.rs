@@ -103,7 +103,7 @@ impl App {
                     .expect("Failed to to_str"),
             )
             .as_lpsz();
-            let v_param: Vec<u16> = format!("{src} {dst}").as_lpsz();
+            let v_param: Vec<u16> = format!("\"{src}\" \"{dst}\"").as_lpsz();
 
             let mut info = SHELLEXECUTEINFOW {
                 cbSize: size_of::<SHELLEXECUTEINFOW>() as u32,
